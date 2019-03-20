@@ -2,7 +2,7 @@
 A repo for random code files for DXMP.
 
 ## Current Projects
-* Discord Inviter (COMPLETE) -Kaiser
+* Discord Inviter (COMPLETE) -Kaiser ![complete](https://raw.githubusercontent.com/deusexhq/project-dxmp/master/assets/Status-Complete-green.svg)
 * Discord Relay (PROTOTYPE) -Kaiser
 * Physics (WIP) -Kaiser
 * Gore (WIP) -Kaiser
