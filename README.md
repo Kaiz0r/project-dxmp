@@ -1,5 +1,5 @@
 # project-dxmp
-A repo for random code files for DXMP.
+A repo for mod files for DXMP.
 
 ## Current Projects
 * Discord Inviter -Kaiser ![complete](/assets/Status-Complete-green.svg)
@@ -9,10 +9,10 @@ A repo for random code files for DXMP.
 * Killsound -Kaiser ![wip](/assets/Status-WIP-blue.svg)
 
 ## Other Deus Ex repos
-[ClassesDX](https://github.com/Kaiz0r/CDX)
-[RCON](https://github.com/Kaiz0r/RCON)
-[OpenDX](https://github.com/Kaiz0r/opendx)
-[PartyStuff](https://github.com/Kaiz0r/partystuff)
+* [ClassesDX](https://github.com/Kaiz0r/CDX)
+* [RCON](https://github.com/Kaiz0r/RCON)
+* [OpenDX](https://github.com/Kaiz0r/opendx)
+* [PartyStuff](https://github.com/Kaiz0r/partystuff)
 
 ## Note to self
 Do readmes for each mod
